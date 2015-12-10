@@ -25,9 +25,6 @@
     //b
 }
 - (void)test2 {
-    //s
-}
-- (void)test2 {
     
 }
 
