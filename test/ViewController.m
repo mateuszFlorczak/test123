@@ -24,7 +24,7 @@
     // Dispose of any resources that can be recreated.
     //dev
 }
-- (void)test2 {
+- (void)test3 {
     
 }
 
