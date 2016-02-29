@@ -22,11 +22,10 @@
 - (void)didReceiveMemoryWarning {
     [super didReceiveMemoryWarning];
     // Dispose of any resources that can be recreated.
-    //b
+    //dev
 }
-
-- (void)test1 {
-    
+- (void)test3 {
+    //q
 }
 
 @end
